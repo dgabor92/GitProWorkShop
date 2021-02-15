@@ -1,3 +1,8 @@
 'use strict';
 
-console.log('Lila Pockok');
+let teamName = 'Lila Pockok';
+Cheer(teamName);
+
+function Cheer(input) {
+    console.log(input);
+}
