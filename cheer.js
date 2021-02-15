@@ -1,3 +1,4 @@
 'use strict';
 
-console.log('Lila Pockok');
+let teamName = 'Lila Pockok';
+console.log(teamName);
