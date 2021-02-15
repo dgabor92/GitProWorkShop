@@ -1,3 +1,7 @@
 'use strict';
 
-console.log('Deutsch Gábor');
+function greet(name) {
+  console.log(name);
+}
+
+greet('Deutsch Gábor');
