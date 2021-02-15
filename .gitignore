@@ -1,7 +1,7 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/code,node,windows,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=code,node,windows,macos
-
+ 
 ### Code ###
 .vscode/*
 !.vscode/tasks.json
