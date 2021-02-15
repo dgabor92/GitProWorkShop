@@ -1,8 +1,9 @@
 'use strict';
 
 let month = 11;
-function count() {
-  console.log('I born in ' + month);
+
+function count(input) {
+    console.log('Counting the countless' + input);
 }
 
-count();
+count(month);
