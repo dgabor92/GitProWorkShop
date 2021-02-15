@@ -1,12 +1,8 @@
 'use strict';
 
-// let teamName = 'Lila Pockok';
-// Cheer(teamName);
+let teamName = 'Lila Pockok';
+Cheer(teamName, ' a legjobbak!');
 
-let choosenOne = 'JavaScript';
-Cheer(choosenOne);
-
-function Cheer(input) {
-    console.log(input);
-
+function Cheer(input1) {
+  console.log('Cheer for the ', input1);
 }
