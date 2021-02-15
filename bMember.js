@@ -1,8 +1,8 @@
-'use strict'
+'use strict';
 
-let age = 26;
-function count () {
-  console.log('My age is ' + age)
+let month = 11;
+function count() {
+  console.log('I born in ' + month);
 }
 
 count();
