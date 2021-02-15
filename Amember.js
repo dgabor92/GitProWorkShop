@@ -1,8 +1,8 @@
 'use strict';
 
 
-function greet(name, age) {
-  console.log(name, age);
+function greet(name) {
+  console.log('Greeting for the ' + name);
 }
 
-greet('Gabor', '28');
+greet('Gabor');
